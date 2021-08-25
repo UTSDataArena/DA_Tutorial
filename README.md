@@ -1,3 +1,3 @@
 # DA_Tutorial
 
-Developed with Unreal Engine 4
+For more information see: https://dataarena.net/dive-in/tutorials/unreal-engine/
