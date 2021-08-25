@@ -1,0 +1,3 @@
+[submodule "Plugins/DA_Assets"]
+	path = Plugins/DA_Assets
+	url = git@code.research.uts.edu.au:da/unreal-engine/plugins/DA_Assets.git
